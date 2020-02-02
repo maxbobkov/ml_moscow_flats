@@ -2,4 +2,4 @@
 - ноутбук с кодом
 - датасет: выборка предложений квартир в Москве за период ноябрь 2019 - январь 2020 г.
 
-Адрес статьи: https://medium.com/@max.bobkov/machine-learning-moscow-flats-appraising
+Адрес статьи: https://medium.com/@max.bobkov/machine-learning-moscow-flats-appraising-25a1e9f171db
